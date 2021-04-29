@@ -452,3 +452,7 @@ footer {
   padding: 60px 0;
   color: #fff;
 }
+
+body {
+overflow-x: hidden;
+}
