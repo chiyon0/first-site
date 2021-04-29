@@ -266,7 +266,7 @@ section p {
   display:flex;
   justify-content: space-between;
   z-index: 0;
-  margin: -260px;
+  margin: -255px;
   justify-content: flex-end;
 }
 
@@ -434,9 +434,9 @@ ul.services-content {
       padding:0;
     }
 
-    .test2 {
+    /* .test2 {
       margin:-190px 0 0 0;
-    }
+    } */
   }
 
 footer {
