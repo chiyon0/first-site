@@ -430,7 +430,7 @@ ul.services-content {
     .contact-content li:last-child {
       margin-bottom: 0;
     }
-    .contact-content li p {
+    .contact-content li p {s
       padding:0;
     }
 
@@ -454,5 +454,5 @@ footer {
 }
 
 body {
-overflow-x: hidden;
+width: 100%; overflow-x: hidden;
 }
